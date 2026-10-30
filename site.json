@@ -1,6 +1,9 @@
 {
-  "title": "Криптобиблиотека: материалы и инструменты",
-  "description": "Подборка публикаций о криптовалютах, переводах, безопасности и блокчейн-инструментах",
+  "title": "Barbados News",
+  "description": "Новости криптовалют BarbadosNews.com и полная библиотека публикаций Telegraph. Обновления, аналитика, инструменты и поиск.",
+  "site_url": "",
   "page_size": 80,
-  "site_url": ""
+  "wordpress_url": "https://barbados-news.com",
+  "wordpress_feed": "https://barbados-news.com/feed/",
+  "news_limit": 48
 }
