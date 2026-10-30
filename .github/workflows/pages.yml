@@ -65,3 +65,23 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify public Google ownership endpoints
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          set -e
+          URL="${SITE_URL%/}/"
+          echo "Search Console URL-prefix must be: $URL"
+          for attempt in 1 2 3; do
+            echo "Checking publicly available files (attempt $attempt)"
+            if curl --location --fail --silent --show-error --connect-timeout 8 --max-time 20 "$URL" -o /tmp/barbados-home.html &&
+               grep -Fq 'content="NT_aZGzdx528vjXi0VBtSmfidKqQYxohp0-GL30Bhxo"' /tmp/barbados-home.html &&
+               curl --location --fail --silent --show-error --connect-timeout 8 --max-time 20 "${URL}google63bfe946f258bfc6.html" -o /tmp/google-verify.html &&
+               grep -Fxq 'google-site-verification: google63bfe946f258bfc6.html' /tmp/google-verify.html; then
+              echo "PUBLIC GOOGLE VERIFICATION PASSED. HTML tag and verification file are both reachable at $URL"
+              exit 0
+            fi
+            echo "::warning::Public Google verification not available on attempt $attempt"
+            sleep 4
+          done
+          echo "::warning::Verification content exists in build but could not be confirmed at the public URL. Check GitHub Pages settings and URL-prefix in Search Console."
