@@ -424,6 +424,10 @@ def main():
     if not assets.is_dir():
         raise RuntimeError('Missing site_assets directory')
     shutil.copytree(assets, dest)
+    # Keep Google Search Console HTML verification files at the deployed site root.
+    for verification_file in ROOT.glob('google*.html'):
+        if verification_file.is_file():
+            shutil.copy2(verification_file, OUT / verification_file.name)
     write('.nojekyll', '')
     paths = ['index.html']
     write('index.html', home())
