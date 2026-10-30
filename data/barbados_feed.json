@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/trezor-crypto-shpionskiy-chip-cryptobilis/",
+    "title": "В Trezor нашли встроенный шпионский модуль с SIM-картой",
+    "date": "2026-10-30T14:02:40Z",
+    "description": "Trezor crypto кошельки модели Safe 5, купленные через одного из реселлеров, могли содержать скрытую плату с сотовым модулем для кражи сид-фраз.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
     "url": "https://barbados-news.com/richard-teng-vzlom-binance-6-3-mlrd/",
     "title": "Richard Teng признал: хак Binance оказался куда сложнее ноутбука",
     "date": "2026-10-30T12:00:39Z",
@@ -374,13 +382,5 @@
     "description": "Coinbase сообщила об утечке контактных данных части клиентов у подрядчика Amplitude. Почему биржа отрицает взлом своих систем, что известно о масштабе инцидента и как защититься от фишинга.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinbase-amplitude-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/robinhood-prognozy-oboshli-kriptovyruchku-q3-2026/",
-    "title": "Robinhood заработала на прогнозах больше, чем на крипте: $173 млн против $120 млн",
-    "date": "2026-10-28T06:11:19Z",
-    "description": "Robinhood получила $173 млн от рынков прогнозов и $120 млн от криптовалют за III квартал 2026 года. Почему криптовыручка упала на 55% за год, хотя вся компания установила рекорд.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/robinhood-discover-cover.jpg"
   }
 ]
