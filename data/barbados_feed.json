@@ -1,5 +1,21 @@
 [
   {
+    "url": "https://barbados-news.com/solflare-staking-sol-validator-1-noyabrya-2026/",
+    "title": "Solflare остановила награды за стейкинг SOL: что сделать до 1 ноября",
+    "date": "2026-10-30T19:50:45Z",
+    "description": "У Solflare остановились награды на старом валидаторе после инцидента с ключами Blockdaemon. Как перенести SOL до 1 ноября, получить компенсацию и защититься от мошенников.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/solflare-sol-validator-staking-november-2026-discover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/trezor-safe-5-implant-cryptobilis-2026/",
+    "title": "Trezor предупредила о шпионском модуле в Safe 5: кому нужно срочно перевести криптовалюту",
+    "date": "2026-10-30T19:09:42Z",
+    "description": "Trezor предупредила о возможном импланте в Safe 5, купленном через CryptoBilis. Кому с марта 2026 года нужно сменить seed-фразу и как безопасно перевести активы.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/trezor-safe5-cryptobilis-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/exchange-binance-vzlom-6-3-mlrd/",
     "title": "Как Binance потеряла $6,3 миллиарда: разбор крупнейшего взлома биржи",
     "date": "2026-10-30T18:46:08Z",
@@ -366,21 +382,5 @@
     "description": "Акции Datavault AI упали почти на 50% после раскрытия проблемы с выводом BTC с Biconomy. Компания пересматривает отчётность по сделке со Scilex на $150 млн.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/datavault-btc-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/braziliya-vybory-usdt-oborot-800-procentov/",
-    "title": "В Бразилии торги USDT взлетели почти на 800% в день выборов",
-    "date": "2026-10-28T07:11:20Z",
-    "description": "В день выборов в Бразилии оборот USDT на Mercado Bitcoin вырос почти на 800%, а 78% всех торгов обеспечили компании. На следующий день доллар подорожал на 8,21%, индекс Ibovespa рухнул на 13,88%.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/brazil-usdt-election-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/jpmorgan-amd-coca-cola-okxice-tokenizirovannye-akcii/",
-    "title": "JPMorgan, AMD и Coca-Cola отказали OKX в торговле токенами своих акций",
-    "date": "2026-10-28T07:00:37Z",
-    "description": "JPMorgan, AMD, Coca-Cola и ещё четыре компании добавились к противникам торговли токенизированными акциями на OKXICE. Список вырос до 33: что запрещает SEC и что это означает для инвесторов.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/okxice-wallstreet-cover.jpg"
   }
 ]
