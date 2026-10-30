@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/tether-rezervy-usdt-191-mlrd-otchet-2026/",
+    "title": "Tether раскрыла резервы USDT на $191,5 млрд: насколько защищены деньги",
+    "date": "2026-10-30T20:39:17Z",
+    "description": "Tether представила резервы USDT на $191,45 млрд с буфером почти $8 млрд. Сколько вложено в облигации, золото и Bitcoin, что проверила BDO и какие риски остаются.",
+    "category": "Биткоин",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/tether-usdt-reserves-q3-2026-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/solflare-staking-sol-validator-1-noyabrya-2026/",
     "title": "Solflare остановила награды за стейкинг SOL: что сделать до 1 ноября",
     "date": "2026-10-30T19:50:45Z",
@@ -374,13 +382,5 @@
     "description": "Биржа Bithumb призналась во взломе внутренней рабочей системы сотрудников - атакующие могли получить доступ к личным данным клиентов.",
     "category": "Новости",
     "image": ""
-  },
-  {
-    "url": "https://barbados-news.com/datavault-ai-bitcoin-biconomy-akcii-obval/",
-    "title": "Datavault AI не может вывести биткоины с июня - её акции рухнули почти на 50%",
-    "date": "2026-10-28T07:22:27Z",
-    "description": "Акции Datavault AI упали почти на 50% после раскрытия проблемы с выводом BTC с Biconomy. Компания пересматривает отчётность по сделке со Scilex на $150 млн.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/datavault-btc-cover.jpg"
   }
 ]
