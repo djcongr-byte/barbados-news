@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/exchange-binance-vzlom-6-3-mlrd/",
+    "title": "Как Binance потеряла $6,3 миллиарда: разбор крупнейшего взлома биржи",
+    "date": "2026-10-30T18:46:08Z",
+    "description": "Exchange Binance пострадала от крупнейшей в истории крипто-кражи на $6,3 млрд - рассказываем, как разворачивалась атака и что ждёт пользователей.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
     "url": "https://barbados-news.com/polygon-solana-bankovskie-perevody-open-money-stack-2026/",
     "title": "Polygon подключила Solana к банковским переводам",
     "date": "2026-10-30T14:10:52Z",
@@ -374,13 +382,5 @@
     "description": "JPMorgan, AMD, Coca-Cola и ещё четыре компании добавились к противникам торговли токенизированными акциями на OKXICE. Список вырос до 33: что запрещает SEC и что это означает для инвесторов.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/okxice-wallstreet-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/vaneck-wbmo-etf-bitcoin-2-procenta/",
-    "title": "VanEck запустила ETF с биткоином: почему доля BTC всего 2%",
-    "date": "2026-10-28T06:51:23Z",
-    "description": "VanEck запустила Wealth Builder ETF (WBMO), объединив акции, облигации, золото и биткоин. Почему ориентир BTC составляет только 2%, как устроен фонд и сколько он стоит.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/vaneck-wbmo-cover.jpg"
   }
 ]
