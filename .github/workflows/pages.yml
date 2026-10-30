@@ -1,20 +1,28 @@
-name: Publish Telegraph library to GitHub Pages
+name: Build Barbados News portal
+
 on:
   push:
     branches: [main]
     paths:
       - 'data/articles.json'
-      - 'scripts/build_site.py'
+      - 'data/barbados_feed.json'
+      - 'scripts/**'
+      - 'site_assets/**'
       - 'site.json'
       - '.github/workflows/pages.yml'
+  schedule:
+    - cron: '17 * * * *'
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+
 concurrency:
   group: github-pages
   cancel-in-progress: true
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -26,7 +34,29 @@ jobs:
         uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build static site (no packages)
+      - name: Fetch WordPress announcements
+        run: python3 scripts/fetch_wordpress.py
+      - name: Preserve WordPress news cache
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/barbados_feed.json; then
+            echo "WordPress news cache unchanged."
+            exit 0
+          fi
+          CURRENT_SHA=$(gh api "repos/${GITHUB_REPOSITORY}/contents/data/barbados_feed.json?ref=main" --jq '.sha')
+          ENCODED=$(base64 -w 0 data/barbados_feed.json)
+          if gh api --method PUT "repos/${GITHUB_REPOSITORY}/contents/data/barbados_feed.json" \
+              -f message="chore: refresh BarbadosNews announcements" \
+              -f branch=main \
+              -f sha="$CURRENT_SHA" \
+              -f content="$ENCODED"; then
+            echo "New WordPress announcements cached in the repository."
+          else
+            echo "::warning::Could not persist WordPress RSS cache; deployment will still continue."
+          fi
+      - name: Build Barbados News site
         run: python3 scripts/build_site.py
       - name: Upload
         uses: actions/upload-pages-artifact@v4
