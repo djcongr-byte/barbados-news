@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/richard-teng-vzlom-binance-6-3-mlrd/",
+    "title": "Richard Teng признал: хак Binance оказался куда сложнее ноутбука",
+    "date": "2026-10-30T12:00:39Z",
+    "description": "Richard Teng заявил, что расследование взлома Binance на $6.3 млрд выявило дополнительные точки проникновения, а не только один скомпрометированный ноутбук.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
     "url": "https://barbados-news.com/chanpen-chzhao-vzlom-binance-6-3-mlrd/",
     "title": "Взлом Binance на $6,3 миллиарда: Чанпэн Чжао оправдывается, а сеть смеётся",
     "date": "2026-10-30T10:25:32Z",
@@ -374,13 +382,5 @@
     "description": "Robinhood получила $173 млн от рынков прогнозов и $120 млн от криптовалют за III квартал 2026 года. Почему криптовыручка упала на 55% за год, хотя вся компания установила рекорд.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/robinhood-discover-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/nasdaq-100-jqqq-stellar-fond-komu-dostupen-2026/",
-    "title": "Фонд Nasdaq-100 запустили на Stellar - но купить его смогут не все",
-    "date": "2026-10-28T06:02:02Z",
-    "description": "Janus Henderson и Centrifuge запустили JQQQ на Stellar. Почему токенизированный фонд Nasdaq-100 недоступен розничным инвесторам и чем он отличается от ETF QQQ.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/jqqq-stellar-cover.jpg"
   }
 ]
