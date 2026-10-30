@@ -1,1 +1,386 @@
-[]
+[
+  {
+    "url": "https://barbados-news.com/chanpen-chzhao-vzlom-binance-6-3-mlrd/",
+    "title": "Взлом Binance на $6,3 миллиарда: Чанпэн Чжао оправдывается, а сеть смеётся",
+    "date": "2026-10-30T10:25:32Z",
+    "description": "Binance лишился $6,3 млрд из-за взлома, а Чанпэн Чжао оказался в центре мемов и жёсткой критики всего крипто-сообщества.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/binance-incident-6-3-mlrd-vyvody-rezervy-2026/",
+    "title": "Binance сообщила об инциденте на $6,3 млрд и остановила вывод криптовалют",
+    "date": "2026-10-30T10:03:18Z",
+    "description": "Binance оценила масштаб инцидента в $6,3 млрд, заморозила с партнёрами около $3 млрд и временно остановила выводы. Что известно об атаке и резервах биржи.",
+    "category": "Безопасность",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/binance-incident-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/kucoin-prekrashchaet-obsluzhivanie-v-rossii-i-belarusi-chto-delat/",
+    "title": "KuCoin прекращает обслуживание в России и Беларуси: что делать пользователям",
+    "date": "2026-10-30T10:02:20Z",
+    "description": "KuCoin объявила о прекращении обслуживания пользователей в России и Беларуси. Разбираем, что это значит для вывода активов, сроков и безопасности аккаунта.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/kucoin-russia-belarus-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/severnaya-koreya-vzlom-binance-6-3-mlrd/",
+    "title": "Группировка TraderTraitor из Северной Кореи украла у Binance $6,3 миллиарда",
+    "date": "2026-10-30T07:46:48Z",
+    "description": "Северная Корея снова в центре скандала: аналитики связали кражу $6,3 млрд у Binance с группировкой TraderTraitor через THORChain и общий кошелёк с взломом Bitget.",
+    "category": "Рынок",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793346404777117607.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/trading-binance-vzlom-6-3-mlrd/",
+    "title": "Binance снова взломали: $6,3 миллиарда и обещание закрыть все потери",
+    "date": "2026-10-30T05:39:03Z",
+    "description": "После того как trading binance фактически остановили из-за атаки на $6,3 млрд, биржа пообещала закрыть все потери пользователей из фонда SAFU.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/binanse-vzlom-5-9-mlrd-xrp-btc-eth/",
+    "title": "Бинансе лишился почти $6 миллиардов: самый крупный взлом биржи в истории крипты",
+    "date": "2026-10-30T02:00:34Z",
+    "description": "Взлом на Бинансе за один вечер затронул XRP, BTC, ETH и ещё несколько токенов - суммарные потери приближаются к $5,9 млрд.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/binans-com-vzlom-binance-milliardy/",
+    "title": "Крупнейшая биржа мира потеряла $5,57 миллиарда за один вечер",
+    "date": "2026-10-29T23:28:06Z",
+    "description": "С горячих кошельков binans com за несколько часов утекло $5,57 млрд в крипте - возможно, это крупнейший взлом биржи в истории.",
+    "category": "Безопасность",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/crypto-hack-binance-5-7-mlrd/",
+    "title": "Как Binance лишился $5.7 миллиарда за один вечер",
+    "date": "2026-10-29T22:54:55Z",
+    "description": "Крупнейший в истории crypto hack ударил по Binance: с горячих кошельков биржи утекли $5.7 млрд, пока Tether и Circle спешно замораживали похищенные стейблкоины.",
+    "category": "Безопасность",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793314491447411640.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/polimarket-polymarket-eksploit-ostanovka-torgov/",
+    "title": "Полимаркет снова взломали: злоумышленник вывел $2,65 млн через чужой скрипт",
+    "date": "2026-10-29T19:15:51Z",
+    "description": "Полимаркет приостановил торги и перевёл биржу в режим отмены заявок после того, как через сторонний сервис утекли миллионы долларов пользователей.",
+    "category": "Безопасность",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793301346943311897.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/ice-tradexyz-hyperliquid-fyuchersy-ssha/",
+    "title": "Владелец NYSE готовит фьючерсы на Hyperliquid для США",
+    "date": "2026-10-29T17:32:37Z",
+    "description": "29 октября владелец NYSE, компания ICE, договорилась с Trade[XYZ] о подготовке регулируемого рынка бессрочных фьючерсов на основе Hyperliquid. Почему это не запуск биржи и какие риски сохранятся для трейдеров.",
+    "category": "Рынок",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/ice-tradexyz-hyperliquid-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/kurs-bitkoina-kvantovaya-ugroza-kubity/",
+    "title": "Квантовые компьютеры подобрались к биткоину ближе, чем мы думали",
+    "date": "2026-10-29T16:10:48Z",
+    "description": "Французская компания Alice & Bob показала, что для взлома биткоин-кошельков нужно в 17 раз меньше кубитов, чем считали раньше, и это меняет взгляд на курс биткоина.",
+    "category": "Новости",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/metamask-stellar-xlm-usdc-novaya-set-2026/",
+    "title": "MetaMask добавил Stellar: как получить XLM и USDC",
+    "date": "2026-10-29T15:25:42Z",
+    "description": "29 октября MetaMask встроил Stellar в приложение и расширение. Новый адрес появляется автоматически, но для его активации нужен 1 XLM, а для получения USDC - trustline и дополнительный резерв.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/metamask-stellar-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/sui-xaua-tokenizirovannoe-zoloto-pas/",
+    "title": "На Sui запустили цифровое золото XAUa с ограничением переводов",
+    "date": "2026-10-29T14:14:54Z",
+    "description": "На Sui заработал золотой токен XAUa: один токен, по заявлению проекта, соответствует грамму золота. Почему PAS ограничивает переводы и какие вопросы остаются к резервам и регулированию.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/xaua-sui-tokenized-gold-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/czena-solana-solflare-kompensacziya-validator/",
+    "title": "Solflare обещает возместить стейкерам награды после сбоя валидатора на $160 млн",
+    "date": "2026-10-29T13:07:57Z",
+    "description": "Пока цена солана держится у отметки $100, кошелек Solflare готовится возместить пользователям недополученные награды стейкинга после сбоя валидатора почти на $160 млн.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793279272756066037.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/ethereum-teku-besu-emudhra-sertifikaty-nagrady/",
+    "title": "Teku и Besu исправили риск перехвата наград Ethereum",
+    "date": "2026-10-29T10:54:04Z",
+    "description": "Разработчики Teku и Besu выпустили обновления после компрометации сертификатов eMudhra. В некоторых конфигурациях злоумышленник мог перенаправить комиссии за блок; подтверждённых атак нет.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/ethereum-teku-besu-emudhra-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/kurs-bitkoina-tailand-sud-imuschestvo/",
+    "title": "Суд Таиланда признал биткоин имуществом - и это не каламбур про курс",
+    "date": "2026-10-29T10:34:50Z",
+    "description": "Верховный суд Таиланда впервые официально признал биткоин имуществом, а не просто записью в блокчейне, и курс биткоина сыграл в этом деле не последнюю роль.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793270085850256473.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/kalshi-ugolovnye-obvineniya-yuta-gembling/",
+    "title": "Юта обвиняет Калши и её руководителей в нелегальном гэмблинге",
+    "date": "2026-10-29T09:01:56Z",
+    "description": "Власти Юты выдвинули против платформы Калши и её сооснователей 14 уголовных обвинений, включая тяжкие фелонии за промоутирование гэмблинга.",
+    "category": "Новости",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/euronext-zcash-etp-coinshares-ostanovka-torgov/",
+    "title": "Euronext остановила торги Zcash ETP на три часа в день запуска",
+    "date": "2026-10-29T09:01:37Z",
+    "description": "Euronext остановила Zcash ETP CoinShares в 09:00 и возобновила торги в 12:00 28 октября. Почему возникла пауза в расчётах и чем инвестор рискует, покупая ZCSH.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinshares-zcash-euronext-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/visa-stablecoin-settlement-25-billion-2026/",
+    "title": "Visa: расчёты в стейблкоинах вышли на темп $25 млрд в год",
+    "date": "2026-10-29T08:12:45Z",
+    "description": "Visa сообщила о темпе расчётов в стейблкоинах свыше $25 млрд в годовом выражении. Что значат 10 блокчейнов, 5 токенов и 225 карточных программ - без путаницы с розничными платежами.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/visa-stablecoin-settlement-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/bitcoin-core-ai-uyazvimosti-windows-macos-2026/",
+    "title": "ИИ нашёл три уязвимости Bitcoin Core: кому обновлять ноду",
+    "date": "2026-10-29T07:43:37Z",
+    "description": "Разработчики Bitcoin Core раскрыли три уязвимости. На Windows и Mac подключённый узел мог вызвать сбой программы. Какие версии исправлены и почему остаётся риск для FAT32.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/bitcoin-core-ai-vulnerabilities-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/kamino-backpack-spacex-akcii-zalog-usdc-solana/",
+    "title": "На Solana открыли кредиты USDC под акции SpaceX и Micron",
+    "date": "2026-10-29T06:59:48Z",
+    "description": "Kamino открыл Backpack Market на Solana: теперь под токены акций SpaceX, Micron и других компаний можно занять USDC. Почему оценка залога по биржевым часам повышает риск ликвидации.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/kamino-backpack-spacex-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/coinbase-rlusd-ripple-xrp-base-ethereum/",
+    "title": "Coinbase добавила RLUSD от Ripple: переводы в трёх сетях",
+    "date": "2026-10-29T06:15:36Z",
+    "description": "Coinbase запустила RLUSD от Ripple для поддерживаемых клиентов. Ввод и вывод теперь доступны в XRP Ledger, Ethereum и Base. Что проверить перед переводом и какие возможности пока не запущены.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinbase-rlusd-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/itau-unibanco-bitcoin-kriptovalyuty-braziliya/",
+    "title": "Крупнейший частный банк Бразилии оформил торговлю биткоином",
+    "date": "2026-10-29T05:48:37Z",
+    "description": "Itaú Unibanco сообщил ЦБ Бразилии о торговле и хранении криптовалют. Что означает уведомление от 27 октября, почему важны даты 30 октября и 6 ноября и какие риски остаются.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/itau-brazil-bitcoin-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/ensv2-ethereum-eth-domeny-prodlenie-28-dney/",
+    "title": "ENSv2 запущен: что изменилось для владельцев доменов .eth",
+    "date": "2026-10-29T05:37:50Z",
+    "description": "ENSv2 запущен в Ethereum 27 октября. Для обновлённых доменов .eth льготный период стал 28 дней, регистрация от пяти символов подорожала до $8 в год. Что это значит для действующих имён и переводов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/ensv2-ethereum-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/ledger-flex-vzlom-singapur-koshelki/",
+    "title": "Подделанные Ledger стоили жителям Сингапура $2.7 миллиона",
+    "date": "2026-10-29T05:29:34Z",
+    "description": "Полиция Сингапура расследует случаи с подделанными устройствами, среди которых оказался и Ledger Flex - ущерб пользователей уже превысил $2.7 млн.",
+    "category": "Новости",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/kanada-ipoteka-pod-zalog-bitkoina-apx/",
+    "title": "В Канаде готовят ипотеку под залог биткоина - без продажи BTC",
+    "date": "2026-10-29T05:28:40Z",
+    "description": "Канадская APX Lending открыла лист ожидания на ипотеку под залог биткоина с запуском в 2027 году. Как можно купить дом без продажи BTC, что известно о ставках и когда грозит ликвидация залога.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/apx-bitcoin-mortgage-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/shieldtx-hyperliquid-zashchita-ot-botov/",
+    "title": "Боты копируют сделки на Hyperliquid. Avail запустила ShieldTX",
+    "date": "2026-10-29T05:16:14Z",
+    "description": "Avail расширила доступ к ShieldTX для Hyperliquid: отдельный кошелёк на каждую позицию мешает ботам отслеживать трейдеров. Что показало исследование 0,63% и какие риски остаются.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/shieldtx-hyperliquid-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/xrpl-koshelki-bez-xrp-sponsor-rezerv-2026/",
+    "title": "В XRP Ledger предложили кошельки без XRP - резерв оплатит спонсор",
+    "date": "2026-10-29T04:58:08Z",
+    "description": "Разработчики XRP Ledger предложили открывать кошельки с нулём XRP: резерв в 1 XRP сможет оплачивать спонсор. Почему обновление ещё не работает и как это связано с RLUSD.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/xrpl-zero-xrp-wallet-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/sec-kastodialnoe-khranenie-kriptoaktivov/",
+    "title": "SEC задумалась о новых правилах хранения крипты для фондов",
+    "date": "2026-10-29T02:28:25Z",
+    "description": "SEC опубликовала проект правил хранения криптоактивов для инвестиционных консультантов и фондов - пока это только предложение, а не готовое разрешение.",
+    "category": "Новости",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/datavault-ai-bitcoin-biconomy-otchetnost/",
+    "title": "Datavault AI застряла с биткоином на бирже - и это стоило компании половины капитализации",
+    "date": "2026-10-28T23:57:11Z",
+    "description": "Datavault AI не может вывести биткоин с Biconomy с июня, а теперь выяснилось, что актив вообще не был её собственностью.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793231826735953483.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/czena-solana-cena-samsung-wallet-usdc/",
+    "title": "Samsung встраивает переводы USDC на Solana прямо в Galaxy-кошелёк",
+    "date": "2026-10-28T21:25:13Z",
+    "description": "Samsung и Solana Foundation готовят трансграничные переводы USDC в Samsung Wallet для 82 млн устройств в США - разбираемся, как это может повлиять на цена солана и рынок стейблкоинов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793222708721240226.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/digital-freedom-fund-vzlom-fec/",
+    "title": "Крипто-PAC исчезли из отчётности после подозрительного сбоя на сайте FEC",
+    "date": "2026-10-28T18:51:59Z",
+    "description": "Digital Freedom Fund и другие крипто-PAC могли остаться без прозрачной отчётности перед выборами из-за странного сбоя на www fec.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793213515129706281.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/rlusd-moodys-a2-rejting-riski-rezervov/",
+    "title": "Moody’s присвоило RLUSD рейтинг A2 - но обнаружило слабое место в защите владельцев",
+    "date": "2026-10-28T18:28:33Z",
+    "description": "Moody’s присвоило Ripple USD рейтинги A2 и P-1. Резервы RLUSD получили высокую оценку, однако агентство указало на ограничения юридической защиты держателей токена.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/moodys-rlusd-reserve-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/google-mpc-zashchita-kriptovalyut-bankov/",
+    "title": "Google показала защиту криптовалют без единого хранилища ключа",
+    "date": "2026-10-28T17:00:19Z",
+    "description": "Google представила Multi-Party Compute для банков: подпись криптотранзакции распределяется между несколькими системами. Как работает MPC и почему запуск для всех пока не состоялся.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/google-mpc-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/dtcc-tokenizaciya-akciy-jpmorgan-citi/",
+    "title": "Уолл-стрит запустила токенизацию ценных бумаг - среди участников JPMorgan и Citi",
+    "date": "2026-10-28T16:46:26Z",
+    "description": "DTCC запустила токенизацию акций, ETF и гособлигаций США. Соглашения подписали JPMorgan, Citi и ещё 18 участников. Что означает запуск и какие права получают владельцы токенов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/dtcc-wallstreet-tokenization-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/coinbase-data-breach-amplitude-utechka/",
+    "title": "Coinbase отрицает взлом, но данные клиентов всё равно утекли через Amplitude",
+    "date": "2026-10-28T15:49:27Z",
+    "description": "Coinbase data breach снова в заголовках: биржа уверяет, что её системы не тронуты, но контакты клиентов утекли через стороннего подрядчика Amplitude.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793202563277458942.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/firedancer-solana-ai-bug-bounty-1-sol-szhiganie/",
+    "title": "ИИ завалил разработчиков Solana отчётами - теперь за заявки сжигают 1 SOL",
+    "date": "2026-10-28T15:26:58Z",
+    "description": "Firedancer ввёл невозвратное сжигание 1 SOL за заявку на вознаграждение: весенний аудит получил 809 отчётов, а ИИ перегрузил проверяющих. Что изменилось и кого касается правило.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/firedancer-ai-reports-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/bithumb-utechka-dannyh-vzlom/",
+    "title": "Bithumb и ещё две корейские финансовые компании слили данные клиентов в один день",
+    "date": "2026-10-28T13:17:57Z",
+    "description": "Биржа Bithumb признала взлом внутренней системы и утечку личных данных пользователей. В тот же день о похожих инцидентах заявили ещё две компании Южной Кореи.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793193473042104851.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/ipo-coinbase-utechka-dannyh-amplitude/",
+    "title": "IPO Coinbase не защитило биржу от очередной утечки данных",
+    "date": "2026-10-28T10:45:59Z",
+    "description": "Даже статус публичной компании после IPO Coinbase не спас биржу от утечки контактных данных клиентов через подрядчика Amplitude.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793184354937903785.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/strategy-bitcoin-strc-vykup-akciy-205-mln/",
+    "title": "Strategy неделю не покупала биткоин - зато выкупила акции на $205 млн",
+    "date": "2026-10-28T07:47:06Z",
+    "description": "Strategy с 19 по 25 октября не купила ни одного BTC, но направила $204,9 млн на выкуп 2,07 млн акций STRC. Что это означает для резервов и инвесторов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/strategy-strc-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/bithumb-vzlom-vnutrenney-sistemy/",
+    "title": "Bithumb снова в центре скандала: взлом внутренней системы и утечка данных",
+    "date": "2026-10-28T07:43:17Z",
+    "description": "Биржа Bithumb призналась во взломе внутренней рабочей системы сотрудников - атакующие могли получить доступ к личным данным клиентов.",
+    "category": "Новости",
+    "image": ""
+  },
+  {
+    "url": "https://barbados-news.com/datavault-ai-bitcoin-biconomy-akcii-obval/",
+    "title": "Datavault AI не может вывести биткоины с июня - её акции рухнули почти на 50%",
+    "date": "2026-10-28T07:22:27Z",
+    "description": "Акции Datavault AI упали почти на 50% после раскрытия проблемы с выводом BTC с Biconomy. Компания пересматривает отчётность по сделке со Scilex на $150 млн.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/datavault-btc-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/braziliya-vybory-usdt-oborot-800-procentov/",
+    "title": "В Бразилии торги USDT взлетели почти на 800% в день выборов",
+    "date": "2026-10-28T07:11:20Z",
+    "description": "В день выборов в Бразилии оборот USDT на Mercado Bitcoin вырос почти на 800%, а 78% всех торгов обеспечили компании. На следующий день доллар подорожал на 8,21%, индекс Ibovespa рухнул на 13,88%.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/brazil-usdt-election-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/jpmorgan-amd-coca-cola-okxice-tokenizirovannye-akcii/",
+    "title": "JPMorgan, AMD и Coca-Cola отказали OKX в торговле токенами своих акций",
+    "date": "2026-10-28T07:00:37Z",
+    "description": "JPMorgan, AMD, Coca-Cola и ещё четыре компании добавились к противникам торговли токенизированными акциями на OKXICE. Список вырос до 33: что запрещает SEC и что это означает для инвесторов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/okxice-wallstreet-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/vaneck-wbmo-etf-bitcoin-2-procenta/",
+    "title": "VanEck запустила ETF с биткоином: почему доля BTC всего 2%",
+    "date": "2026-10-28T06:51:23Z",
+    "description": "VanEck запустила Wealth Builder ETF (WBMO), объединив акции, облигации, золото и биткоин. Почему ориентир BTC составляет только 2%, как устроен фонд и сколько он стоит.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/vaneck-wbmo-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/coinbase-amplitude-utechka-dannyh-2026/",
+    "title": "Coinbase опровергла взлом - но данные клиентов всё же утекли",
+    "date": "2026-10-28T06:19:28Z",
+    "description": "Coinbase сообщила об утечке контактных данных части клиентов у подрядчика Amplitude. Почему биржа отрицает взлом своих систем, что известно о масштабе инцидента и как защититься от фишинга.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinbase-amplitude-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/robinhood-prognozy-oboshli-kriptovyruchku-q3-2026/",
+    "title": "Robinhood заработала на прогнозах больше, чем на крипте: $173 млн против $120 млн",
+    "date": "2026-10-28T06:11:19Z",
+    "description": "Robinhood получила $173 млн от рынков прогнозов и $120 млн от криптовалют за III квартал 2026 года. Почему криптовыручка упала на 55% за год, хотя вся компания установила рекорд.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/robinhood-discover-cover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/nasdaq-100-jqqq-stellar-fond-komu-dostupen-2026/",
+    "title": "Фонд Nasdaq-100 запустили на Stellar - но купить его смогут не все",
+    "date": "2026-10-28T06:02:02Z",
+    "description": "Janus Henderson и Centrifuge запустили JQQQ на Stellar. Почему токенизированный фонд Nasdaq-100 недоступен розничным инвесторам и чем он отличается от ETF QQQ.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/jqqq-stellar-cover.jpg"
+  }
+]
