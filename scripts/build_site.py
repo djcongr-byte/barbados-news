@@ -192,6 +192,7 @@ def page(title, content, route='', description=DESC, current='home', image=''):
     og_img = image or favicon()
     html_doc = '''<!doctype html><html lang="ru"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="NT_aZGzdx528vjXi0VBtSmfidKqQYxohp0-GL30Bhxo">
 <title>%s</title><meta name="description" content="%s"><meta name="theme-color" content="#061323">
 <link rel="canonical" href="%s"><link rel="icon" type="image/svg+xml" href="%s">
 <meta property="og:type" content="website"><meta property="og:title" content="%s">
