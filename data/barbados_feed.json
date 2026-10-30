@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/polygon-solana-bankovskie-perevody-open-money-stack-2026/",
+    "title": "Polygon подключила Solana к банковским переводам",
+    "date": "2026-10-30T14:10:52Z",
+    "description": "Polygon Open Money Stack теперь поддерживает Solana: компании могут связывать банковские платежи с переводами USDC, USDT и PYUSD. Что уже работает и кому доступно.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/polygon-solana-open-money-stack-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/trezor-crypto-shpionskiy-chip-cryptobilis/",
     "title": "В Trezor нашли встроенный шпионский модуль с SIM-картой",
     "date": "2026-10-30T14:02:40Z",
@@ -374,13 +382,5 @@
     "description": "VanEck запустила Wealth Builder ETF (WBMO), объединив акции, облигации, золото и биткоин. Почему ориентир BTC составляет только 2%, как устроен фонд и сколько он стоит.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/vaneck-wbmo-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/coinbase-amplitude-utechka-dannyh-2026/",
-    "title": "Coinbase опровергла взлом - но данные клиентов всё же утекли",
-    "date": "2026-10-28T06:19:28Z",
-    "description": "Coinbase сообщила об утечке контактных данных части клиентов у подрядчика Amplitude. Почему биржа отрицает взлом своих систем, что известно о масштабе инцидента и как защититься от фишинга.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinbase-amplitude-cover.jpg"
   }
 ]
