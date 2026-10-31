@@ -1,5 +1,21 @@
 [
   {
+    "url": "https://barbados-news.com/coinbase-pribyl-719-mln-vyruchka-prognozy-2026/",
+    "title": "Coinbase получила $719 млн прибыли, хотя выручка упала на 35%",
+    "date": "2026-10-31T06:37:01Z",
+    "description": "Coinbase отчиталась о $719 млн прибыли при падении выручки на 35%. Откуда взялись $715 млн переоценки криптовалют и что означает $200 млн от рынков прогнозов.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/coinbase-q3-2026-profit-revenue-discover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/walmart-okx-ice-tokenizaciya-akciy-38-otkazov/",
+    "title": "Walmart и ещё 37 компаний выступили против токенизации акций на OKX-ICE",
+    "date": "2026-10-31T06:23:09Z",
+    "description": "Walmart, Eli Lilly и ещё 36 компаний возразили против сторонней токенизации их акций на площадке OKXICE. Что это значит для проекта OKX и владельца NYSE, прав инвесторов и торговли 24/7.",
+    "category": "Регулирование",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/okxice-walmart-tokenized-stocks-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/tether-rezervy-usdt-191-mlrd-otchet-2026/",
     "title": "Tether раскрыла резервы USDT на $191,5 млрд: насколько защищены деньги",
     "date": "2026-10-30T20:39:17Z",
@@ -366,21 +382,5 @@
     "description": "Даже статус публичной компании после IPO Coinbase не спас биржу от утечки контактных данных клиентов через подрядчика Amplitude.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793184354937903785.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/strategy-bitcoin-strc-vykup-akciy-205-mln/",
-    "title": "Strategy неделю не покупала биткоин - зато выкупила акции на $205 млн",
-    "date": "2026-10-28T07:47:06Z",
-    "description": "Strategy с 19 по 25 октября не купила ни одного BTC, но направила $204,9 млн на выкуп 2,07 млн акций STRC. Что это означает для резервов и инвесторов.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/strategy-strc-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/bithumb-vzlom-vnutrenney-sistemy/",
-    "title": "Bithumb снова в центре скандала: взлом внутренней системы и утечка данных",
-    "date": "2026-10-28T07:43:17Z",
-    "description": "Биржа Bithumb призналась во взломе внутренней рабочей системы сотрудников - атакующие могли получить доступ к личным данным клиентов.",
-    "category": "Новости",
-    "image": ""
   }
 ]
