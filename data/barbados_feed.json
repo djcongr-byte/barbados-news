@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://barbados-news.com/xrp-ledger-tokeny-requireauth-ispravleniya-2026/",
+    "title": "В XRP Ledger нашли лазейки для ограниченных токенов: какие переводы изменятся",
+    "date": "2026-10-31T07:19:28Z",
+    "description": "В XRP Ledger пересматривают правила получения ограниченных токенов. Два исправления ещё обсуждаются, два закрыты: что это значит для XRP, Trust Line и пулов AMM.",
+    "category": "Новости",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/xrpl-requireauth-token-permissions-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/coinbase-pribyl-719-mln-vyruchka-prognozy-2026/",
     "title": "Coinbase получила $719 млн прибыли, хотя выручка упала на 35%",
     "date": "2026-10-31T06:37:01Z",
@@ -374,13 +382,5 @@
     "description": "Биржа Bithumb признала взлом внутренней системы и утечку личных данных пользователей. В тот же день о похожих инцидентах заявили ещё две компании Южной Кореи.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793193473042104851.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/ipo-coinbase-utechka-dannyh-amplitude/",
-    "title": "IPO Coinbase не защитило биржу от очередной утечки данных",
-    "date": "2026-10-28T10:45:59Z",
-    "description": "Даже статус публичной компании после IPO Coinbase не спас биржу от утечки контактных данных клиентов через подрядчика Amplitude.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793184354937903785.jpg"
   }
 ]
