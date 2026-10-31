@@ -1,5 +1,21 @@
 [
   {
+    "url": "https://barbados-news.com/circle-cctp-v1-usdc-perevody-otklyuchenie-2026/",
+    "title": "Circle ограничивает старые переводы USDC: что произойдёт 31 октября и 1 декабря",
+    "date": "2026-10-31T08:34:18Z",
+    "description": "Circle с 31 октября сворачивает старый протокол CCTP V1, а с 1 декабря планирует остановить контракты. Кому нужно обновить маршрут USDC и почему для Noble действует отдельный срок.",
+    "category": "Ethereum",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/circle-usdc-cctp-v1-v2-discover.jpg"
+  },
+  {
+    "url": "https://barbados-news.com/franciya-nalogi-kriptovalyuta-dac8-carf-2026/",
+    "title": "Франция готовит обмен налоговыми данными о криптосделках: что узнают о Bitcoin и USDT",
+    "date": "2026-10-31T07:56:11Z",
+    "description": "Сенат Франции поддержал международный обмен данными о криптооперациях. Что может узнать налоговая о Bitcoin, USDT и переводах на личные кошельки и когда начнётся обмен по DAC8.",
+    "category": "Биткоин",
+    "image": "https://barbados-news.com/wp-content/uploads/2026/10/france-crypto-tax-carf-dac8-discover.jpg"
+  },
+  {
     "url": "https://barbados-news.com/xrp-ledger-tokeny-requireauth-ispravleniya-2026/",
     "title": "В XRP Ledger нашли лазейки для ограниченных токенов: какие переводы изменятся",
     "date": "2026-10-31T07:19:28Z",
@@ -366,21 +382,5 @@
     "description": "Coinbase data breach снова в заголовках: биржа уверяет, что её системы не тронуты, но контакты клиентов утекли через стороннего подрядчика Amplitude.",
     "category": "Новости",
     "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793202563277458942.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/firedancer-solana-ai-bug-bounty-1-sol-szhiganie/",
-    "title": "ИИ завалил разработчиков Solana отчётами - теперь за заявки сжигают 1 SOL",
-    "date": "2026-10-28T15:26:58Z",
-    "description": "Firedancer ввёл невозвратное сжигание 1 SOL за заявку на вознаграждение: весенний аудит получил 809 отчётов, а ИИ перегрузил проверяющих. Что изменилось и кого касается правило.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/firedancer-ai-reports-cover.jpg"
-  },
-  {
-    "url": "https://barbados-news.com/bithumb-utechka-dannyh-vzlom/",
-    "title": "Bithumb и ещё две корейские финансовые компании слили данные клиентов в один день",
-    "date": "2026-10-28T13:17:57Z",
-    "description": "Биржа Bithumb признала взлом внутренней системы и утечку личных данных пользователей. В тот же день о похожих инцидентах заявили ещё две компании Южной Кореи.",
-    "category": "Новости",
-    "image": "https://barbados-news.com/wp-content/uploads/2026/10/cover-1793193473042104851.jpg"
   }
 ]
